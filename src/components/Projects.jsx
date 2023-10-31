@@ -9,7 +9,7 @@ import { useEffect, useRef } from "react";
 export const projects = [
   {
     title: "Portfolio",
-    url: "https://r3f-wawatmos-final.vercel.app/",
+    url: "https://github.com/Animesh404/portfolio",
     image: "projects/portfolio.png",
     description: "Created this portfolio using r3f",
   },
